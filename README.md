@@ -9,7 +9,6 @@ Um aplicativo Android que permite aos usuários explorar uma lista de séries, v
 - **Favoritar e Desfavoritar**: Adicione séries aos favoritos e remova-as conforme desejado. As séries favoritas aparecem no topo da lista.
 - **Sincronização de Dados**: A lista de séries é atualizada automaticamente para refletir mudanças nos favoritos.
 
-## 📸 Capturas de Tela
 
 
 ## 🛠️ Tecnologias Utilizadas
