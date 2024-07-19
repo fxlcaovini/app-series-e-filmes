@@ -1,4 +1,4 @@
-# 🎬 App Filmes
+# 🎬 App Filmes e Séries
 
 Um aplicativo Android que permite aos usuários explorar uma lista de séries, visualizar detalhes sobre cada uma e adicionar/remover séries dos favoritos. As séries favoritas são destacadas e aparecem no topo da lista.
 
