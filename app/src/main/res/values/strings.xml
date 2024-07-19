@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appfilmes</string>
+    <string name="Filmes">Filmes</string>
+    <string name="Favoritar">Favoritar</string>
+    <string name="Series">Séries</string>
+
+</resources>
